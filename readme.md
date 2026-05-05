@@ -80,7 +80,6 @@ MarketMakingProject/
 source activate_project.sh
 python scripts/run_backtest.py \
   --data-path "data/raw/Largebookticker.csv" \
-  --symbol BTCUSDT \
   --tick-size 0.01 \
   --fee-rate 0.0001 \
   --min-spread-bps 0.0
