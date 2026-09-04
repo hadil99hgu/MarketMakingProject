@@ -1,0 +1,13 @@
+{
+  "n_observations": 20000,
+  "start_time": "2026-09-03T22:42:06.884950+00:00",
+  "end_time": "2026-09-04T04:16:24.144566+00:00",
+  "duration_seconds": 20057.259616,
+  "median_dt_seconds": 1.000545,
+  "mean_dt_seconds": 1.0029131264563227,
+  "p95_dt_seconds": 1.0136346999999999,
+  "p99_dt_seconds": 1.1003421600000003,
+  "max_dt_seconds": 20.509298,
+  "median_effective_hz": 0.9994552968632096,
+  "nonpositive_dt_count": 0
+}
